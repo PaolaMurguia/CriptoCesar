@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/03/11 16:43:48.161,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/03/11 16:43:51.293,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/03/11 16:48:57.889,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\LINEA, CIRCULO\Unit1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/03/11 16:48:57.889,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\LINEA, CIRCULO\Unit1.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/11 16:48:57.889,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\LINEA, CIRCULO\Unit1.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/03/11 18:08:03.219,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/03/11 18:08:15.674,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\LINEA, CIRCULO\Unit2.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/03/11 18:08:15.674,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\LINEA, CIRCULO\Unit2.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/03/12 09:24:07.232,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\LINEA, CIRCULO\Project1PCH1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/03/12 09:24:11.365,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\LINEA, CIRCULO\Project1.cbproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
