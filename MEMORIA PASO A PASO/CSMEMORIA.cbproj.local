@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/03/18 18:25:11.852,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/03/18 18:25:15.510,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/03/18 18:25:51.280,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CSMEMORIAPCH1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/03/18 18:25:51.301,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CSMEMORIA.cbproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/03/18 19:36:01.661,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\MEMORIA PASO A PASO\MEMORIAYO.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/03/18 19:36:01.661,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\MEMORIA PASO A PASO\MEMORIAYO.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/18 19:36:01.661,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\MEMORIA PASO A PASO\MEMORIAYO.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/03/18 19:36:08.224,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\MEMORIA PASO A PASO\CSMEMORIAPCH1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CSMEMORIAPCH1.h</Transaction>
+    <Transaction>2024/03/18 19:36:09.384,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\ED1_2024\MEMORIA PASO A PASO\CSMEMORIA.cbproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CSMEMORIA.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
